@@ -1,5 +1,5 @@
 {
-  "name": "tester",
+  "name": "@abdullah-randmar/tester",
   "private": false,
   "version": "0.0.1",
   "description": "The UI library for effortlessly creating beatiful and responsive admin dashboards in React.",
